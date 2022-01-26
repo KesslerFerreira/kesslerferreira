@@ -9,9 +9,9 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/KesslerFerreira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KesslerFerreira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KesslerFerreira&layout=compact&langs_count=7&theme=merko"/>
+  <a href="https://github.com/kesslerferreira">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kesslerferreira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesslerferreira&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
